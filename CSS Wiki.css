@@ -1,0 +1,22 @@
+body{
+  background-color: CadetBlue;
+}
+h1 {
+  font-size: 50px;
+  color: aliceblue;
+}
+.items {
+  border: solid 3px CornflowerBlue;
+  border-radius: 15px;
+  text-align: left;
+}
+.searchArea {
+  padding-bottom: 30px;
+}
+.item {
+  font-size:20px;
+  text-decoration: underline;
+}
+#searchBox {
+	width: 50%;
+}
